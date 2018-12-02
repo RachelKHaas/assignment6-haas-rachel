@@ -14,3 +14,12 @@ var tour = {
   seattle: 'September 1st, 2018',
   edmonton: 'September 4th, 2018'
 };
+
+//Loop
+var x = 1;
+
+while (x < 6) {
+  console.log('Times running through the loop ' + x)
+
+  x++;
+}
